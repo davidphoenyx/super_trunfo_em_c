@@ -29,7 +29,7 @@ int main() {
     getchar();
 
     //Entrada do código da carta
-    printf("Digite o código da carta (Somennte de 01 a 04): ");
+    printf("Digite o código da carta (Somente de 01 a 04): ");
     scanf("%s", codigo_1);
 
     //Entrada da cidade
@@ -62,7 +62,7 @@ int main() {
     getchar();
 
     //Entrada do código da carta
-    printf("Digite o código da carta (Somennte de 01 a 04): ");
+    printf("Digite o código da carta (Somente de 01 a 04): ");
     scanf("%s", codigo_2);
 
     //Entrada da cidade
